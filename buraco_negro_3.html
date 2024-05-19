@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html>
-<head>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>Buraco negro em HTML e CSS</title>
@@ -10,6 +10,7 @@
 	  	color: #fff;
 	  	font-size: 100px;
 	  	text-align: center;
+	  	overflow: hidden;
 	  }
 	  #horizonte {
 	  	background-color: #000;
@@ -20,9 +21,17 @@
 	  	margin: 0 auto;
 	  	margin-top: 15%;
 	  	margin-bottom: 60px;
+	  	transition: 360s;
 	  }
 	  #horizonte:hover {
-		cursor: none;
+		  cursor: none;
+		  width: 4444px;
+	  	height: 4444px;
+	  	border-radius: 0px;
+	  	margin-top: -50%;
+	  	margin-bottom: default;
+	    transition-duration: 1000ms;
+	    box-shadow: -11px -11px 8px #000, -20px -20px 60px 10px #Ff0, 10px 10px 40px #FF0, inset -20px -20px 30px -20px #0ff;
 	  }
   </style>
 </head>
