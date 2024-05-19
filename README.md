@@ -5,7 +5,7 @@ Aproveitei o tempo livre para criar uma obra de arte, um buraco negro usando ape
 
 [Segunda versão](https://fernandoisnaldo.github.io/Buraco-negro/buraco_negro_2.html)
 
-[Terceira versão](https://fernandoisnaldo.github.io/Buraco-negro/buraco_negro_3.html)
+[Terceira versão](https://fernandoisnaldo.github.io/Buraco-negro/buraco_negro_3.html) (mais realista)
 
 [Quarta versão](https://fernandoisnaldo.github.io/Buraco-negro/buraco_negro_4.html)
 
